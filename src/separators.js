@@ -10,3 +10,4 @@ function thousands_separators(num) {
   else
     return (st+num.substring(y));
 } 
+module.exports=thousands_separators;
